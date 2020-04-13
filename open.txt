@@ -2,3 +2,5 @@ Este é o conteudo do curso
 alteração
 pt
 novas alterações para ver 
+
+VAMOS APRENDER GIT
