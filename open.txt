@@ -1,3 +1,6 @@
 Este é o conteudo do curso
 alteração
-br
+pt
+novas alterações para ver 
+
+VAMOS APRENDER GIT
